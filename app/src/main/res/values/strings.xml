@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BarnappKai</string>
+    <string name="score">0</string>
+    <string name="endScoreText">Score:</string>
+    <color name="lightblue">#89b5fa</color>
+</resources>
